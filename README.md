@@ -48,15 +48,6 @@ Backend-focused full stack engineer with 3.5+ years of experience building **Nes
 | [repo-name](https://github.com/ajeevsan/repo-name) | One line on what it does | NestJS, MongoDB |
 | [repo-name](https://github.com/ajeevsan/repo-name) | One line on what it does | Node.js, Kafka |
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ajeevsan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeevsan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
 ## 📫 Let's talk
 
 I'm currently looking for **Backend Engineer** (or Full Stack) roles. The fastest way to reach me is [email](mailto:sanjeevmajhi39@gmail.com) or [LinkedIn](https://linkedin.com/in/sanjeev-majhi-4305b6a2).
