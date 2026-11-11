@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanjeevmajhi.dev-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjeevmajhi.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanjeevmajhi.dev-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-new-flax.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeev-majhi-4305b6a2)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeevmajhi39@gmail.com)
 
@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-Backend-focused full stack engineer with 3.5+ years of experience building **NestJS / TypeScript** services on **MongoDB** and **PostgreSQL**, with **Kafka** pipelines and **GCP Cloud Run** deployments. Based in Mumbai, open to hybrid/remote roles and UK shift timings.
+Backend-focused full stack engineer with 4+ years of experience building **NestJS / TypeScript** services on **MongoDB** and **PostgreSQL**, with **Kafka** pipelines and **GCP Cloud Run** deployments. Based in Mumbai, open to hybrid/remote roles and UK shift timings.
 
 ## 🛠️ Tech stack
 
