@@ -38,16 +38,6 @@ Backend-focused full stack engineer with 4+ years of experience building **NestJ
 - **Real-time weather platform**: split into 8 microservices on Docker and Kubernetes (70% faster deployments), Socket.IO/WebSocket streaming at 1,000 msgs/sec.
 - **Scalable e-commerce backend**: Node.js microservices with Redis caching, Kafka and Elasticsearch for 10,000+ concurrent users.
 
-## 📌 Featured projects
-
-<!-- Replace with your best repos. Pinned repos appear on your profile automatically,
-     so use this section only for projects that need more explanation. -->
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [repo-name](https://github.com/ajeevsan/repo-name) | One line on what it does | NestJS, MongoDB |
-| [repo-name](https://github.com/ajeevsan/repo-name) | One line on what it does | Node.js, Kafka |
-
 ## 📫 Let's talk
 
 I'm currently looking for **Backend Engineer** (or Full Stack) roles. The fastest way to reach me is [email](mailto:sanjeevmajhi39@gmail.com) or [LinkedIn](https://linkedin.com/in/sanjeev-majhi-4305b6a2).
